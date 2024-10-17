@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/IRONHEADGames/Scenes/HelloMR.unity
+    guid: a4df9918cc86f9e4b83f8f51e110df1b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f7d9deb72d42dab4ba3be2e98e51aa7e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 378e89fa7b2d9fb439ffb1ec50ae1c14, type: 2}
